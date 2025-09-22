@@ -1,5 +1,9 @@
 # Visualization_Power-BI_project
 
+![powerbi-logo](https://github.com/user-attachments/assets/b67459a4-00d6-4be6-8675-f6eee8db0a37)
+
+In this project I exhibit my Visualization skills using Microsoft Power BI and I was able to perform and create Reports, Dashboard and other important insight in decision-making through dashboard and reports.
+
 In this project  we finalise our national survey report. We will use DAX to create measures and columns to enrich our data to ensure accurate and useful data representation on the dashboard. we use all the skills acquired in the course to build a public dashboard. We put together all we have learned in the module to create the survey report.
 Our mission is to communicate with transparency: Where did the money go? We will track the total budget against project completion, monitor teams' performance, and compare budgeted versus actual costs to flag potential corruption, promoting transparency and accountability in addressing Maji Ndogo’s water crisis.
 
@@ -63,15 +67,36 @@ The Report showing Ave time_in_queue and number_people_served in Maji_Ndogo (Sca
 
 <img width="567" height="382" alt="Ave_queue Percent male_female_children on each Day_of_week" src="https://github.com/user-attachments/assets/265c2a30-6d20-4e24-b1b2-42ef3fe43057" />
 
+The report showing average queue percentage of Malle, Female, Children on each Day_of_week in Maji_Ndogo (Column chart)
 
+<img width="552" height="359" alt="Ave_queue_time and Day_of_week" src="https://github.com/user-attachments/assets/bd05dea2-1076-42f4-bbf6-382e1f66b178" />
 
+The report showing average queue time and day_of_week (Bar chart)
 
+<img width="768" height="431" alt="Crime_related data" src="https://github.com/user-attachments/assets/02b7d7eb-132e-47c1-9580-07ea395cc5c5" />
 
+A dashboard showing how Crimes are related by Gender, Time, and Province in Maji_Ndogo.
 
+<img width="1252" height="492" alt="Improvements Bookmark" src="https://github.com/user-attachments/assets/095f4df8-102c-4f60-8932-c2dd1ce84679" />
 
+A dashboard for making Bookmark in Power Bi and making a View restricted for other views to make the dashboard easy to access in Maji_Ndogo.
 
+<img width="1248" height="483" alt="Province Bookmark" src="https://github.com/user-attachments/assets/5ea460b8-5def-47a5-90b5-8d6a9c2cd98b" />
 
+A Bookmark dashboard showing how to restrict other views in Maji_Ndogo.
 
+<img width="761" height="434" alt="Queue_visual" src="https://github.com/user-attachments/assets/0f465e0a-fa6a-4a98-89a3-002102c0baba" />
 
+Dashboard showing how the flow of queue in the province and town in Maji_Ndogo.
 
+<img width="376" height="330" alt="total population using the various water sources" src="https://github.com/user-attachments/assets/f304bb31-9540-4705-99ae-cff0e68d83de" />
 
+Report showing total population using the various water sources in Maji_Ndogo.
+
+<img width="370" height="335" alt="Urban vs Rural Population in Maji Ndogo" src="https://github.com/user-attachments/assets/4fa5460d-2367-4b68-9b5e-a66ace2cf38f" />
+
+Report showing Urban vs Rural Population in Maji Ndogo.
+
+# Conclusion
+
+Now this report is far from perfect. It is better to get a report like this into the hands of the user, to see if they find it useful. This will enable us to generate more insight in the data and enable stackholders to be able to make very accurate decisions.
