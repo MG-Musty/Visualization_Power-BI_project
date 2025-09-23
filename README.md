@@ -2,7 +2,7 @@
 
 ![powerbi-logo](https://github.com/user-attachments/assets/b67459a4-00d6-4be6-8675-f6eee8db0a37)
 
-In this project I exhibit my Visualization skills using Microsoft Power BI and I was able to perform and create Reports, Dashboard and other important insight in decision-making through dashboard and reports.
+In this project I exhibited my Visualization skills using Microsoft Power BI and I was able to perform and create Reports, Dashboard and other important insight in decision-making through dashboard and reports.
 
 In this project  we finalise our national survey report. We will use DAX to create measures and columns to enrich our data to ensure accurate and useful data representation on the dashboard. we use all the skills acquired in the course to build a public dashboard. We put together all we have learned in the module to create the survey report.
 Our mission is to communicate with transparency: Where did the money go? We will track the total budget against project completion, monitor teams' performance, and compare budgeted versus actual costs to flag potential corruption, promoting transparency and accountability in addressing Maji Ndogo’s water crisis.
